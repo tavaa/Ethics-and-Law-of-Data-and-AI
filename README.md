@@ -2,7 +2,7 @@
 
 ## Content
 
-This repository contains the essay titled *"The Echo of Fear: Public Perception of Cyber-Risks in Autonomous Systems and Its Impact on AI Governance"*, written by tavaa.  
+This repository contains the essay titled *"The Echo of Fear: Public Perception of Cyber-Risks in Autonomous Systems and Its Impact on AI Governance"*.
 It explores key ideas and perspectives on how public perception of cyber-risks in AI-based autonomous systems, profoundly influences ethical debates and legislative responses.
 
 ## License
